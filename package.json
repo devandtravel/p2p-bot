@@ -1,0 +1,9 @@
+{
+  "name": "p2p-bot",
+  "version": "1.0.0",
+  "description": "peer to peer Telegram bot based on GrammY framework",
+  "main": "build/app.js",
+  "repository": "https://github.com/devandtravel/p2p-bot",
+  "author": "devandtravel",
+  "license": "MIT"
+}
